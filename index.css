@@ -402,6 +402,9 @@ strong {
     width: 100%;
     height: 85vh;
   }
+  ul{
+    padding: 0rem 1rem!important;
+  }
 }
 @media (max-width: 340px) {
   .display-4 {
